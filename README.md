@@ -1,4 +1,4 @@
-jquery-ui-custom
-================
+jquery-ui-custom-slide
+======================
 
-custom jquery plugins
+custom jquery slide build

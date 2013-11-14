@@ -1,1 +1,1 @@
-require('./jquery-ui-1.10.3.slide.js');
+require('./jquery-ui-1.10.3.slide.shake.js');
